@@ -4,6 +4,7 @@
 **Arbajxml/Arbajxml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img width="659" alt="224813159-539f5b7d-ce1b-448e-bf92-f0c6d40f710f" src="https://github.com/user-attachments/assets/415d6d31-a420-4464-b8ca-6b366492f9ce" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
